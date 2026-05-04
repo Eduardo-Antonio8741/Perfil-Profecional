@@ -1,18 +1,19 @@
-# Hola, Soy Eduardo Bautista 👋
---- 
-### Bienvenidos a mi espacio Git
+# Hola, soy Eduardo Bautista 👋
+---
+### Bienvenidos a mi espacio en Git
 
-## Sobre mí😁:
+## Sobre mí 😁
 
-Soy  estudiante de 3° Desarrollo de Software, me  gusta el  basquetbol y los videojuegos.
+Soy estudiante de 3.º año de Desarrollo de Software. Me gusta el baloncesto y los videojuegos.
 
-## ⚙️ Tecnologías que conozco y he trabajado:
+## ⚙️ Tecnologías que conozco y en las que he trabajado
 
-MySQL🗄️| Visual Studio💻|Python 🐍|Apache🌍|Javascrit 🎨|HTML
+MySQL 🗄️ | Visual Studio 💻 | Python 🐍 | Apache 🌍 | JavaScript 🎨 | HTML
 
-## 🔎Proyectos:
+## 🔎 Proyectos
 
 Próximamente...
 
-## 📞Contacto
-santiagoeduardo874@gmai
+## 📞 Contacto
+
+santiagoeduardo874@gmail.com
